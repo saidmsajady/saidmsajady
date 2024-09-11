@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python and SQL!**
 
-- 📫 How to reach me **saidmsajady@gmail.com or on LinkedIn!**
+- 📫 How to reach me **s.saidmasih@gmail.com or on LinkedIn!**
 
 - ⚡ Fun fact **I am tri-lingual, English, Farsi, German, and learning Arabic when I can :)**
 
