@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio Site**
 
-- 🌱 I’m currently learning **Python and SQL!**
+- 🌱 I’m currently learning **Java and SQL!**
 
 - 📫 How to reach me **s.saidmasih@gmail.com or on LinkedIn!**
 
